@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": "Video Editor",
+    "creator": "https://www.youtube.com/channel/UCi2qHfRMVEI_yHH90gZBevQ",
+    "required_skills": ["Splice & Dice", "Rough Cut & Sequencing", "2D Animation"],
+    "location": "Asia preferred, open to all",
+    "verticals": ["Entertainment", "Lifestyle", "Vlogs"],
+    "budget": 2500,
+    "description": "Looking for a talented Video Editor with Adobe Premiere Pro experience. Content form: any short-form and long-form videos. Team has historically preferred Asia for affordability but open to all locations."
+  },
+  {
+    "id": 2,
+    "role": "Producer / Video Editor",
+    "creator": "https://www.youtube.com/@imjennim",
+    "required_skills": ["Storyboarding", "Sound Designing", "Rough Cut & Sequencing", "Filming"],
+    "location": "New York (priority) or remote within the US",
+    "verticals": ["Entertainment", "Education", "Food & Cooking"],
+    "budget": "100-150 per hour",
+    "description": "Hiring a producer/video editor to help scale her channel. Must have deep TikTok experience. Female candidates preferred but not mandatory."
+  },
+  {
+    "id": 3,
+    "role": "Chief Operations Officer",
+    "creator": "https://www.youtube.com/@aliabdaal",
+    "required_skills": ["Strategy & Consulting", "Business Operations", "Business Development"],
+    "location": "Open (anywhere)",
+    "verticals": ["Productivity", "Education"],
+    "budget": "Unlimited",
+    "description": "Looking for a high-energy leader passionate about educational content to run channel operations. No budget limitations, willing to hire the best."
+  }
+]
