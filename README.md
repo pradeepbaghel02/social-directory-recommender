@@ -145,26 +145,5 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 🔗 https://www.linkedin.com/in/pradeepbaghell/
 💡 *Feedback and contributions are welcome!*
 
-````
 
----
-
-### ✅ Next Steps for You
-
-1. **Create README.md file**
-```bash
-echo "" > README.md
-````
-
-Paste the above template into the file.
-
-2. **Stage & Commit the README**
-
-```bash
-git add README.md
-git commit -m "Added professional README.md"
-git push
-```
-
-3. Refresh your GitHub repo — it will now look polished and professional.
 
